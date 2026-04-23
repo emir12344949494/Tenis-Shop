@@ -3,8 +3,6 @@
 Bienvenido a **Tenis-Shop**! Este es un proyecto de comercio electrónico enfocado en la venta de calzado deportivo, desarrollado como parte de mi formación técnica.
 
 
-![Captura de pantalla](./src/main/resources/public/images/page.png)
-
 ##  Descripción del Proyecto
 Tenis-Shop es una aplicación que permite gestionar un catálogo de tenis, visualizando modelos, precios y detalles técnicos. El objetivo es aplicar conocimientos de desarrollo de software, gestión de versiones con Git y despliegue de aplicaciones.
 
